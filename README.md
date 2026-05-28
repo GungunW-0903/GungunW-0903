@@ -20,7 +20,7 @@
 
 ## Profile
 
-I am a **Computer Science student** at **National Institute of Technology, Patna**, passionate about building useful, clean and responsive web applications. I enjoy working across frontend development, problem solving and project-based learning.
+I am a **Computer Science student** , passionate about building useful, clean and responsive web applications. I enjoy working across frontend development, problem solving and project-based learning.
 
 My focus is to write structured code, design simple user experiences and keep improving through real projects.
 
