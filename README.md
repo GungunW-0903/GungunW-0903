@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,35:581c3b,70:7c2d70,100:0f172a&text=GUNGUN%20WADHWANI&fontColor=f8fafc&fontSize=48&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Frontend%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=60" alt="Gungun Wadhwani professional animated banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:020617,35:581c3b,70:7c2d70,100:0f172a&text=GUNGUN%20WADHWANI&fontColor=f8fafc&fontSize=48&animation=twinkling&fontAlignY=36&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20Problem%20Solver&descSize=16&descAlignY=60" alt="Gungun Wadhwani professional animated banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2400&pause=800&color=F472B6&center=true&vCenter=true&width=950&lines=Building+clean%2C+responsive+and+modern+web+experiences;Frontend+Developer+focused+on+JavaScript+and+React;Problem+solver+with+a+project-first+mindset;Turning+ideas+into+structured%2C+usable+products" alt="Professional typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2400&pause=800&color=F472B6&center=true&vCenter=true&width=950&lines=Building+clean%2C+responsive+and+modern+web+experiences;Full+Stack+Developer+focused+on+JavaScript+and+React;Problem+solver+with+a+project-first+mindset;Turning+ideas+into+structured%2C+usable+products" alt="Professional typing animation" />
 
 <br />
 
@@ -129,6 +129,24 @@ const gungun = {
 
 ---
 
+## GitHub Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GungunW-0903&theme=radical" alt="GitHub profile summary" />
+
+<br />
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GungunW-0903&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=e5e7eb" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GungunW-0903&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=e5e7eb" alt="Top languages" />
+
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GungunW-0903&bg_color=0d1117&color=e5e7eb&line=f472b6&point=38bdf8&area=true&hide_border=true" alt="GitHub activity graph" />
+
+</div>
 
 ---
 
