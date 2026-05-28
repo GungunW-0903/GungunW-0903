@@ -48,9 +48,7 @@ const gungun = {
 
 ## Education
 
-| Degree | Institute | Duration | CGPA |
-| --- | --- | --- | --- |
-| Bachelor of Technology | National Institute of Technology, Patna | 2024 - Present | 8.72 |
+
 
 ---
 
