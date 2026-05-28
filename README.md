@@ -124,24 +124,6 @@ const gungun = {
 
 ---
 
-## GitHub Insights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GungunW-0903&theme=radical" alt="GitHub profile summary" />
-
-<br />
-<br />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GungunW-0903&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&icon_color=f472b6&text_color=e5e7eb" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GungunW-0903&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f472b6&text_color=e5e7eb" alt="Top languages" />
-
-<br />
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GungunW-0903&bg_color=0d1117&color=e5e7eb&line=f472b6&point=38bdf8&area=true&hide_border=true" alt="GitHub activity graph" />
-
-</div>
 
 ---
 
