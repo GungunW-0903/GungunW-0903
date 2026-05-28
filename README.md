@@ -26,7 +26,7 @@ My focus is to write structured code, design simple user experiences and keep im
 
 ```js
 const gungun = {
-  education: "B.Tech, National Institute of Technology Patna",
+  
   currentFocus: ["Web Development", "Data Structures", "Algorithms"],
   interests: ["Frontend Engineering", "Databases", "Problem Solving"],
   strengths: ["Teamwork", "Time Management", "Communication", "Leadership"],
