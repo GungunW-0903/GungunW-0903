@@ -1,0 +1,83 @@
+<svg width="900" height="310" viewBox="0 0 900 310" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated coder and engineer workspace</title>
+  <desc id="desc">A professional animated terminal, circuit board and engineering dashboard.</desc>
+  <style>
+    .bg { fill: #0d1117; }
+    .panel { fill: #111827; stroke: #334155; stroke-width: 1.4; }
+    .panel-soft { fill: #0f172a; stroke: #293548; stroke-width: 1; }
+    .pink { stroke: #f472b6; }
+    .cyan { stroke: #38bdf8; }
+    .violet { stroke: #a78bfa; }
+    .green { stroke: #22c55e; }
+    .text-main { fill: #e5e7eb; font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 15px; }
+    .text-muted { fill: #94a3b8; font-family: Consolas, Monaco, 'Courier New', monospace; font-size: 13px; }
+    .heading { fill: #f8fafc; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 19px; font-weight: 700; }
+    .chip-text { fill: #cbd5e1; font-family: Inter, Segoe UI, Arial, sans-serif; font-size: 12px; font-weight: 600; }
+    .line { fill: none; stroke-width: 2.5; stroke-linecap: round; stroke-dasharray: 9 12; animation: dash 3.2s linear infinite; }
+    .pulse { animation: pulse 1.8s ease-in-out infinite; transform-origin: center; }
+    .float { animation: float 3.6s ease-in-out infinite; }
+    .blink { animation: blink 1s steps(1) infinite; }
+    .bar1 { animation: bar 2.4s ease-in-out infinite; transform-origin: bottom; }
+    .bar2 { animation: bar 2.8s ease-in-out infinite .2s; transform-origin: bottom; }
+    .bar3 { animation: bar 2.2s ease-in-out infinite .4s; transform-origin: bottom; }
+    .scan { animation: scan 3.4s ease-in-out infinite; }
+    @keyframes dash { to { stroke-dashoffset: -84; } }
+    @keyframes pulse { 0%, 100% { opacity: .55; transform: scale(1); } 50% { opacity: 1; transform: scale(1.12); } }
+    @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    @keyframes bar { 0%, 100% { transform: scaleY(.35); } 50% { transform: scaleY(1); } }
+    @keyframes scan { 0%, 100% { transform: translateX(0); opacity: .25; } 50% { transform: translateX(230px); opacity: .75; } }
+  </style>
+
+  <rect class="bg" x="0" y="0" width="900" height="310" rx="22"/>
+  <rect x="18" y="18" width="864" height="274" rx="18" fill="#0b1220" stroke="#1f2937"/>
+
+  <g class="float">
+    <rect class="panel" x="46" y="48" width="340" height="214" rx="14"/>
+    <circle cx="70" cy="72" r="6" fill="#fb7185"/>
+    <circle cx="90" cy="72" r="6" fill="#facc15"/>
+    <circle cx="110" cy="72" r="6" fill="#22c55e"/>
+    <text class="heading" x="68" y="111">developer.workspace</text>
+    <text class="text-muted" x="68" y="144">$ build --profile recruiter</text>
+    <text class="text-main" x="68" y="174">&gt; compiling responsive UI</text>
+    <text class="text-main" x="68" y="202">&gt; testing clean user flows</text>
+    <text class="text-main" x="68" y="230">&gt; shipping better projects</text>
+    <rect x="278" y="220" width="8" height="18" rx="2" fill="#38bdf8" class="blink"/>
+  </g>
+
+  <g>
+    <path class="line pink" d="M396 102 C452 102 452 62 508 62"/>
+    <path class="line cyan" d="M396 154 C462 154 462 154 528 154"/>
+    <path class="line violet" d="M396 210 C454 210 454 250 512 250"/>
+    <circle class="pulse" cx="510" cy="62" r="7" fill="#f472b6"/>
+    <circle class="pulse" cx="530" cy="154" r="7" fill="#38bdf8"/>
+    <circle class="pulse" cx="514" cy="250" r="7" fill="#a78bfa"/>
+  </g>
+
+  <g>
+    <rect class="panel" x="536" y="44" width="316" height="218" rx="14"/>
+    <text class="heading" x="562" y="82">engineering.dashboard</text>
+
+    <rect class="panel-soft" x="562" y="104" width="112" height="48" rx="10"/>
+    <text class="chip-text" x="582" y="134">Frontend</text>
+    <circle class="pulse" cx="650" cy="128" r="6" fill="#f472b6"/>
+
+    <rect class="panel-soft" x="696" y="104" width="130" height="48" rx="10"/>
+    <text class="chip-text" x="719" y="134">DSA Logic</text>
+    <circle class="pulse" cx="802" cy="128" r="6" fill="#38bdf8"/>
+
+    <rect class="panel-soft" x="562" y="174" width="264" height="58" rx="10"/>
+    <rect x="586" y="202" width="22" height="22" rx="4" fill="#f472b6" class="bar1"/>
+    <rect x="626" y="190" width="22" height="34" rx="4" fill="#38bdf8" class="bar2"/>
+    <rect x="666" y="182" width="22" height="42" rx="4" fill="#a78bfa" class="bar3"/>
+    <text class="text-muted" x="716" y="207">project quality</text>
+    <text class="text-main" x="716" y="226">improving daily</text>
+
+    <rect x="566" y="246" width="42" height="3" rx="2" fill="#f472b6" class="scan"/>
+  </g>
+
+  <g opacity=".55">
+    <path d="M34 284 H866" stroke="#1e293b"/>
+    <path d="M32 28 H868" stroke="#1e293b"/>
+  </g>
+</svg>
